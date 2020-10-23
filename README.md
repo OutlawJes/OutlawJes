@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
 
-<img align="center" src="https://github.com/saviomartin/outlawjes/blob/master/assets/git.png?raw=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=outlawjes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
