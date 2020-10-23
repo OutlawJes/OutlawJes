@@ -1,13 +1,13 @@
 ## Que onda 👋 Soy Outlaw !
 
-Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here
+Mi nombre es Jesus Vivo en Mexico Y actualmente Aprendo JavaScript y Lua
 
-- 🚀 I want to learn **Flutter** and **Dart**
+- 🚀 Me gutsaria aprender **HTML** and **CCS**
 
-- 💤 I like to **sleep**
+- 💤 Me gusta **Dormir**
 
 <details open>
-<summary>🌟 <b>Some contact info</b></summary>
+<summary>🌟 <b>Alguna informacion y contacto</b></summary>
 
 <p align = "center">
 
