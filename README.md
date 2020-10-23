@@ -5,8 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
+- 📫 How to reach me: jesrockerstar1@gmail.com
 - ⚡ Fun fact: I'm comming to teen
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
