@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sylex !
+## Hi there 👋 I'm Outlaw !
 
 Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here
 
