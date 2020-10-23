@@ -43,8 +43,8 @@ Insert random paragraph about myself here, Insert random paragraph about myself 
 <br>
 
 <p align = "center">
-  <a href="#"><img align="center" src="https://github-readme-stats.itzsylex.vercel.app/api?username=itzsylex&show_icons=true&theme=chartreuse-dark&line_height=27&hide=contribs" /></a>
-  <a href="#"><img align="center" src="https://github-readme-stats.itzsylex.vercel.app/api/top-langs/?username=itzsylex&hide&theme=chartreuse-dark&" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.OutlawJes.vercel.app/api?username=itzsylex&show_icons=true&theme=chartreuse-dark&line_height=27&hide=contribs" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.OutlawJes.vercel.app/api/top-langs/?username=itzsylex&hide&theme=chartreuse-dark&" /></a>
 </p>
 
 </details>
