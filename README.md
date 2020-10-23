@@ -1,36 +1,50 @@
-### Hi there 👋
+## Hi there 👋 I'm Sylex !
 
-Here are some ideas to get you started:
+Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here
 
-- 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me anything about Frontend
-- 📫 How to reach me: jesrockerstar1@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+- 🚀 I want to learn **Flutter** and **Dart**
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
+- 💤 I like to **sleep**
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+<details open>
+<summary>🌟 <b>Some contact info</b></summary>
+
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/Discord-.sylex%232803-%232eb852?style=for-the-badge&logo=Discord&logoColor=%232eb852">](#)
+[<img src="https://img.shields.io/twitter/follow/Bran_M16?color=%232eb852&label=Follow%20me&logo=Twitter&logoColor=%232eb852&style=for-the-badge" />](https://twitter.com/bran_m16)
+
+</p>
+
+</details>
+
+
+---
+<details open>
+ <summary><b>Some projects</b></summary>
+
+ <br>
+
+
+<p align = "center">
+<a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats.itzsylex.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=chartreuse-dark" /></a>
+<a href = "https://github.com/ItzSylex/JojoAPI"><img align="center"  src="https://github-readme-stats.itzsylex.vercel.app/api/pin/?username=itzsylex&repo=JojoAPI&theme=chartreuse-dark" /></a>
+
+</p>
+
+</details>
+
+
+---
+
+<details open>
+ <summary> 📮 <b>Github Stats </b> </summary>
+
 <br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
+<p align = "center">
+  <a href="#"><img align="center" src="https://github-readme-stats.itzsylex.vercel.app/api?username=itzsylex&show_icons=true&theme=chartreuse-dark&line_height=27&hide=contribs" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.itzsylex.vercel.app/api/top-langs/?username=itzsylex&hide&theme=chartreuse-dark&" /></a>
+</p>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=OutlawJes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
-
-<img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?outlawjes=saviomartin&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?outlawjes=saviomartin&repo=ludo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-
-
+</details>
