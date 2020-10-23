@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: jesrockerstar1@gmail.com
 - ⚡ Fun fact: I'm comming to teen
