@@ -2,7 +2,7 @@
 
 Mi nombre es Jesus Vivo en Mexico Y actualmente Aprendo JavaScript y Lua
 
-- 🚀 Me gutsaria aprender **HTML** and **CCS**
+- 🚀 Me gutsaria aprender **PYTHON**
 
 - 💤 Me gusta **Dormir**
 
