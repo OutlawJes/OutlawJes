@@ -1,4 +1,4 @@
-## Que onda 👋 Soy Outlaw !
+## Que onda 🤟🏽 Soy Outlaw !
 
 Mi nombre es Jesus Vivo en Mexico Y actualmente Aprendo JavaScript y Lua
 
