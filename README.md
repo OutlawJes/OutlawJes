@@ -27,7 +27,7 @@ Mi nombre es Jesus Vivo en Mexico Y actualmente Aprendo JavaScript y Lua
 
 <p align = "center">
 <a href = "https://github.com/OutlawJes/Warren-Bot"><img align="center"  src="https://github-readme-stats.itzsylex.vercel.app/api/pin/?username=OutlawJes&repo=Warren&theme=chartreuse-dark" /></a>
-<a href = "https://github.com/OutlawJes/DJWarren"><img align="center"  src="https://github-readme-stats.itzsylex.vercel.app/api/pin/?username=OutlawJes&repo=DJWarren&theme=chartreuse-dark" 
+<a href = "https://github.com/OutlawJes/AudioPro"><img align="center"  src="https://github-readme-stats.itzsylex.vercel.app/api/pin/?username=OutlawJes&repo=DJWarren&theme=chartreuse-dark" 
 
 </p>
 </details>
